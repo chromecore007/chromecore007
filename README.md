@@ -1,4 +1,4 @@
-![logo](https://github.com/Kumarprashantthakur/Kumarprashantthakur/blob/main/anim.gif)
+![logo](https://github.com/chromecore007/chromecore007/blob/main/anim.gif)
 
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar</h1>
@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kumarprashantthakur&label=Profile%20views&color=0e75b6&style=flat" alt="kumarprashantthakur" />
+  <img src="https://komarev.com/ghpvc/?username=chromecore007&label=Profile%20views&color=0e75b6&style=flat" alt="chromecore007" />
 </p>
 
 - 🌱 I’m currently learning **JavaScript, React, and MERN Stack**
@@ -83,29 +83,27 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarprashantthakur&show_icons=true&locale=en&layout=compact" alt="kumarprashantthakur" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chromecore007&show_icons=true&locale=en&layout=compact" alt="chromecore007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarprashantthakur&show_icons=true&locale=en" alt="kumarprashantthakur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromecore007&show_icons=true&locale=en" alt="chromecore007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarprashantthakur&" alt="kumarprashantthakur" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromecore007" alt="chromecore007" /></p>
 
 ---
 
 ### 🌍 Visitors:
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=kumarprashantthakur&label=VISITORS&countColor=%23263759)
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=chromecore007&label=VISITORS&countColor=%23263759)
 
 ---
 ---
-
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kumarprashantthakur&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chromecore007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kumarprashantthakur&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromecore007&theme=github-compact)
 
 ## 👀 Visitor Count
-![Visitors](https://komarev.com/ghpvc/?username=Kumarprashantthakur&label=PROFILE+VIEWS&color=blue&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=chromecore007&label=PROFILE+VIEWS&color=blue&style=flat-square)
 
 - 🔗 Check all my links at **[Linktree](https://linktr.ee/prashantthakur0128)**
-

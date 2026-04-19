@@ -81,30 +81,43 @@
 
 ---
 
-### 📊 GitHub Stats:
+## ⚡ Coding Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chromecore007&show_icons=true&locale=en&layout=compact" alt="chromecore007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromecore007&show_icons=true&locale=en" alt="chromecore007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromecore007" alt="chromecore007" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chromecore007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chromecore007&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Singh_0128?theme=dark&font=Karma&hide_border=true" />
+</p>
 
 ### 🌍 Visitors:
 ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=chromecore007&label=VISITORS&countColor=%23263759)
 
 ---
 
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chromecore007&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=120&section=footer&width=1000" width="100%" />
+</p>
+
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chromecore007&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/DSA-Strong-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
 </p>
 
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromecore007&theme=github-compact)
 
 ## 👀 Visitor Count
 ![Visitors](https://komarev.com/ghpvc/?username=chromecore007&label=PROFILE+VIEWS&color=blue&style=flat-square)

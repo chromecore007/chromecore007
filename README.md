@@ -95,10 +95,13 @@
 ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=chromecore007&label=VISITORS&countColor=%23263759)
 
 ---
----
 
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=chromecore007&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chromecore007&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromecore007&theme=github-compact)

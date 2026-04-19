@@ -8,7 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Kumar!;MERN+Stack+Developer;CSE+Student+%7C+DSA+Enthusiast;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/ebcb5a7353c2591b2cbf11fd706c523609f3449721b6de55b0c8d69ca62154ee/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=chromecore007&label=Profile%20views&color=0e75b6&style=flat" alt="chromecore007" />

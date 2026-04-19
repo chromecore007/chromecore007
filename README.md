@@ -81,6 +81,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromecore007&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+</p>
+
 ## ⚡ Coding Stats
 
 <p align="center">
